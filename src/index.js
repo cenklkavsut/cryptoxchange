@@ -7,6 +7,7 @@ import Root from './components/root';
 //import './assets/scss/itrade.css'
 import 'react-circular-progressbar/dist/styles.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.css';
 
 
 ReactDOM.render(<Root />, document.getElementById('root'));
