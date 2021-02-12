@@ -10,7 +10,6 @@ import {switchSingUPModal, switchSingINModal} from '../actions/modals'
 import {baseWrapper} from '../actions/eventWrapper'
 import ReactSVG from 'react-svg';
 
-
 class TopPanel extends Component {
 
     open_item(path) {
